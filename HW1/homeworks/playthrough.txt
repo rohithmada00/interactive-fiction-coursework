@@ -1,0 +1,8 @@
+List of all commands to win our game:
+take key
+go north
+go east
+unlock door
+find treasure
+
+ 
